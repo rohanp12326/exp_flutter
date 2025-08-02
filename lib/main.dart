@@ -1,23 +1,25 @@
 import 'package:flutter/material.dart';
-import 'package:my_project/core/constants/color_palette.dart';
-import 'package:my_project/features/home/presentation/pages/combined_screens.dart';
+import 'package:get/get.dart';
+import 'package:my_project/core/constants/app_strings.dart';
+import 'package:my_project/core/theme/app_theme.dart';
+import 'package:my_project/modules/home/controllers/home_controller.dart';
+import 'package:my_project/modules/home/views/combined_screens.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  Get.put(HomeController());
   runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+  const MyApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Responsive UI',
+    return GetMaterialApp(
+      title: AppStrings.appTitle,
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: ColorPalette.secondary),
-        useMaterial3: true,
-      ),
+      theme: AppTheme.lightTheme,
       home: const CombinedScreens(),
     );
   }
