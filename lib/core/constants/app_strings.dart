@@ -1,34 +1,23 @@
-class AppStrings {
-  static const String appTitle = 'Responsive UI';
-  static const String goodMorning = 'Good Morning';
-  static const String userName = 'Alena Sabyan';
-  static const String featured = 'Featured';
-  static const String category = 'Category';
-  static const String seeAll = 'See All';
-  static const String popularRecipes = 'Popular Recipes';
-  static const String breakfast = 'Breakfast';
-  static const String lunch = 'Lunch';
-  static const String dinner = 'Dinner';
-  static const String titleAsianWhiteNoodle = 'Asian white noodle with extra seafood';
-  static const String titleHealthyTacoSalad = 'Healthy Taco Salad with fresh vegetable';
-  static const String titleJapaneseStylePancakes = 'Japanese-style Pancakes Recipe';
-  static const String titleGrilledChickenSalad = 'Grilled Chicken Salad';
-  static const String titlePastaPrimavera = 'Pasta Primavera';
-  static const String titleSteakVegetables = 'Steak with Vegetables';
-  static const String titleSeafoodPaella = 'Seafood Paella';
-  static const String creatorJamesSpader = 'James Spader';
-  static const String creatorOliviaRizka = 'Olivia Rizka';
-  static const String time20Min = '20 Min';
-  static const String time15Min = '15 Min';
-  static const String time12Min = '12 Min';
-  static const String time25Min = '25 Min';
-  static const String time30Min = '30 Min';
-  static const String time40Min = '40 Min';
-  static const String time50Min = '50 Min';
-  static const String calories120 = '120 Kcal';
-  static const String calories64 = '64 Kcal';
-  static const String calories200 = '200 Kcal';
-  static const String calories350 = '350 Kcal';
-  static const String calories500 = '500 Kcal';
-  static const String calories600 = '600 Kcal';
+class AppString {
+  static const menu = 'Menu';
+  static const home = 'Home';
+  static const settings = 'Settings';
+  static const appTitle = 'AMIVENTS';
+  static const societies = 'SOCIETIES';
+  static const searchHint = 'Search societies...';
+
+  static const technical = 'TECHNICAL';
+  static const dance = 'DANCE';
+  static const music = 'MUSIC';
+  static const art = 'ART';
+  static const drama = 'DRAMA';
+  static const literary = 'LITERARY';
+  static const photography = 'PHOTOGRAPHY';
+  static const filmMedia = 'FILM & MEDIA';
+  static const entrepreneurship = 'ENTREPRENEURSHIP';
+  static const robotics = 'ROBOTICS';
+  static const sports = 'SPORTS';
+  static const debate = 'DEBATE';
+  static const quiz = 'QUIZ';
+  static const cultural = 'CULTURAL';
 }

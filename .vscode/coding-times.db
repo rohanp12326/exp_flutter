@@ -10,7 +10,7 @@
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\models\\recipe.dart","last_edit":1753969295489,"total_time":339,"is_writing":0,"_id":"2MeabJ2kqSeURRIN"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\home\\views\\combined_screens.dart","last_edit":1754042425327,"total_time":634,"is_writing":0,"_id":"2k14DRrw2MN8s0Xn"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\presentation\\combined_screens.dart","last_edit":1753967039494,"total_time":1515,"is_writing":0,"_id":"2nIBXIBAS4cbCKhU"}
-{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#2-HuTouch AI Extension Logs","last_edit":1754038883544,"total_time":13217,"is_writing":0,"_id":"38ecTu9JJ4EVBOiO"}
+{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#2-HuTouch AI Extension Logs","last_edit":1754276845242,"total_time":16676,"is_writing":0,"_id":"38ecTu9JJ4EVBOiO"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\home\\widgets\\category_button.dart","last_edit":1754042518595,"total_time":808,"is_writing":0,"_id":"3RS4wlh28JvAHbgC"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\data\\data_sources\\home_remote_data_source.dart","last_edit":1753965953753,"total_time":384,"is_writing":0,"_id":"4TkzkYs9M46xh2Uc"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\data\\repositories\\home_repository_impl.dart","last_edit":1753966007387,"total_time":424,"is_writing":0,"_id":"5N2Hzy7vbTvw7982"}
@@ -29,7 +29,7 @@
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core\\error\\exceptions.dart","last_edit":1753965857674,"total_time":850,"is_writing":0,"_id":"9B0Ru1YFn2xPm9Wh"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\home\\presentations\\widgets\\popular_recipes_section.dart","last_edit":1753964506931,"total_time":3889006,"is_writing":0,"_id":"9yMmONJoKaVr4g3n"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core\\localization\\app_localizations.dart","last_edit":1753959336867,"total_time":425,"is_writing":0,"_id":"A7r55aP2K3PCKHAA"}
-{"file_path":"f:\\Flutter Applications\\demo_app\\pubspec.yaml","last_edit":1753967055016,"total_time":1440885,"is_writing":0,"_id":"AuwKuP49OKrdGAyk"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\pubspec.yaml","last_edit":1754300057825,"total_time":6834712,"is_writing":0,"_id":"AuwKuP49OKrdGAyk"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\presentation\\widgets\\featured_section.dart","last_edit":1754052660237,"total_time":7756,"is_writing":0,"_id":"B31chWItVrUPyKI0"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\presentation\\widgets\\featured_card.dart","last_edit":1753966935981,"total_time":1861,"is_writing":0,"_id":"C6V4DZRxuTaojrKX"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core\\constants\\theme_constants.dart","last_edit":1753959283038,"total_time":340,"is_writing":0,"_id":"EcEVY6hXrr70WpIn"}
@@ -38,7 +38,7 @@
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\presentation\\widgets\\custom_bottom_nav_bar.dart","last_edit":1753966916635,"total_time":473,"is_writing":0,"_id":"FZqBOfquXuKEXJYG"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\home\\bindings\\home_binding.dart","last_edit":1753960448875,"total_time":403,"is_writing":0,"_id":"GYBe1V3GGA3dktZD"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\home\\views\\home_view.dart","last_edit":1754033180703,"total_time":532,"is_writing":0,"_id":"Gib24nJG3UPiRECH"}
-{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\main.dart","last_edit":1754048292304,"total_time":3444708,"is_writing":0,"_id":"ImCq7mz98cmBIm1A"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\main.dart","last_edit":1754305876206,"total_time":3450984,"is_writing":0,"_id":"ImCq7mz98cmBIm1A"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\domain\\usecases\\get_categories_usecase.dart","last_edit":1753966085804,"total_time":761,"is_writing":0,"_id":"JDw008bpwjkDqlbJ"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\presentation\\bloc\\home_state.dart","last_edit":1753966757275,"total_time":413,"is_writing":0,"_id":"KH5hSDJlm6PrFk0m"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core_widgets\\navigation\\custom_bottom_nav_bar.dart","last_edit":1754033288975,"total_time":6216,"is_writing":0,"_id":"KXcLuYVNtCWI6MY2"}
@@ -52,12 +52,14 @@
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\data\\models\\recipe_model.dart","last_edit":1753965993831,"total_time":394,"is_writing":0,"_id":"S4d3yqAuDyMMp8j4"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\home\\presentations\\widgets\\category_button.dart","last_edit":1753964509432,"total_time":457,"is_writing":0,"_id":"SEjfnw3v2ja1xcEe"}
 {"file_path":"extension-output-formulahendry.code-runner-#2-Code","last_edit":1754049283380,"total_time":6701,"is_writing":0,"_id":"SNk9r1OpsfAkfPbd"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\controllers\\societies_controller.dart","last_edit":1754306145641,"total_time":24579,"is_writing":0,"_id":"Shm90zoYfbji84v0"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core_widgets\\navigation\\custom_floating_button.dart","last_edit":1754032872278,"total_time":394,"is_writing":0,"_id":"Sq1uq6IFsYtUaFvo"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\widgets\\custom_floating_button.dart","last_edit":1753969506082,"total_time":357,"is_writing":0,"_id":"TWc6CRkiCs95o9kQ"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\domain\\entities\\featured.dart","last_edit":1753966019469,"total_time":405,"is_writing":0,"_id":"UECMFV7zZn9Qg69l"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\screens\\societies_screen.dart","last_edit":1754305783419,"total_time":59275,"is_writing":0,"_id":"Uc8zr8FlLZUXCZYn"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\widgets\\custom_bottom_nav_bar.dart","last_edit":1753969491208,"total_time":338,"is_writing":0,"_id":"UftoguxbLZFPPvDd"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\combined_screens.dart","last_edit":1754032275718,"total_time":947,"is_writing":0,"_id":"Um8K3PVkk44EzYDw"}
-{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#1-HuTouch AI Extension Logs","last_edit":1754032048460,"total_time":2526,"is_writing":0,"_id":"WwvPsTeFMJcu1jBc"}
+{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#1-HuTouch AI Extension Logs","last_edit":1754306539559,"total_time":14197,"is_writing":0,"_id":"WwvPsTeFMJcu1jBc"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\config\\flavor_config.dart","last_edit":1753965777124,"total_time":332,"is_writing":0,"_id":"WzZyYtt3ZcJWjqAO"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\presentation\\bloc\\home_event.dart","last_edit":1753966125372,"total_time":853,"is_writing":0,"_id":"Xr8RgV75zssjlsOI"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\home\\presentations\\widgets\\nav_bar_item.dart","last_edit":1753964354766,"total_time":411,"is_writing":0,"_id":"Y2kaJEmAITT4cJiD"}
@@ -77,7 +79,7 @@
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\data\\models\\category_model.dart","last_edit":1753965979019,"total_time":362,"is_writing":0,"_id":"gg5pxnd2rUG4XO6K"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core\\error_handler\\error_handler.dart","last_edit":1753960435204,"total_time":338,"is_writing":0,"_id":"hHph2z9IOLlEVxO8"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core\\utils\\size_extensions.dart","last_edit":1754042347307,"total_time":398,"is_writing":0,"_id":"hJuCMUpRbALOMXKQ"}
-{"file_path":"extension-output-Dart-Code.dart-code-#2-flutter (demo_app)","last_edit":1753969542751,"total_time":38979,"is_writing":0,"_id":"iAxsGGq9xYLUXYuw"}
+{"file_path":"extension-output-Dart-Code.dart-code-#2-flutter (demo_app)","last_edit":1754300058940,"total_time":49558,"is_writing":0,"_id":"iAxsGGq9xYLUXYuw"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\models\\featured_recipe.dart","last_edit":1753969267065,"total_time":327,"is_writing":0,"_id":"iQ0FC4k87C5A7KqZ"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\home\\widgets\\nav_bar_item.dart","last_edit":1754042572939,"total_time":368,"is_writing":0,"_id":"ifMMqgxJUTM17nRg"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\presentation\\widgets\\custom_header.dart","last_edit":1754048455619,"total_time":3273571,"is_writing":0,"_id":"jERoRZOdDWBMHUIN"}
@@ -97,12 +99,61 @@
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\home\\widgets\\featured_section.dart","last_edit":1754042472851,"total_time":2766754,"is_writing":0,"_id":"rSNUNWFjUpJI4ixs"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core\\constants\\app_colors.dart","last_edit":1754042277796,"total_time":1280,"is_writing":0,"_id":"rdEd6x3mwg2nLYCJ"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\domain\\entities\\category.dart","last_edit":1753966035149,"total_time":2831,"is_writing":0,"_id":"s6se7CSnZBqsRicH"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\data_source\\i_github_remote_data_source.dart","last_edit":1754305002677,"total_time":5512,"is_writing":0,"_id":"sYexBuAUTmn2ilvz"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\home\\widgets\\custom_header.dart","last_edit":1754042456697,"total_time":864,"is_writing":0,"_id":"sihAstGiGI8kTt4X"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\home\\presentations\\widgets\\category_section.dart","last_edit":1753964270687,"total_time":412,"is_writing":0,"_id":"tK8lJaxJzybGqg55"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\views\\widgets\\custom_header.dart","last_edit":1753969358841,"total_time":401,"is_writing":0,"_id":"tXen75EKBmh9ryPM"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\data\\models\\featured_model.dart","last_edit":1753965967348,"total_time":373,"is_writing":0,"_id":"ua2IRkGI5PNKl5ht"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core\\theme\\app_theme.dart","last_edit":1754048292339,"total_time":342,"is_writing":0,"_id":"uw4gHnY6rzMQfSC6"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\views\\widgets\\featured_section.dart","last_edit":1753969376030,"total_time":1093,"is_writing":0,"_id":"uy7XN3Tqj4Tvexup"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\widgets\\category_button.dart","last_edit":1754305308689,"total_time":62359,"is_writing":0,"_id":"wh84zD8Z61u7KWd9"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core\\constants\\app_images.dart","last_edit":1754042307436,"total_time":1103,"is_writing":0,"_id":"ysEuZyvlJfLxCLIb"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\home\\presentation\\widgets\\custom_floating_button.dart","last_edit":1753966929270,"total_time":622,"is_writing":0,"_id":"zBTukIq5fHzsIJ1r"}
 {"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core\\constants\\image_paths.dart","last_edit":1753969234465,"total_time":329,"is_writing":0,"_id":"zQ5WNYR5WHpYHp3e"}
+{"file_path":"extension-output-Dart-Code.dart-code-#3-flutter (demo_app)","last_edit":1754277279498,"total_time":5329,"is_writing":0,"_id":"zvaASDfK79tWeZA9"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\data_source\\github_remote_data_source_impl.dart","last_edit":1754304992578,"total_time":464639,"is_writing":0,"_id":"zxGvd9Pt56pIVwFL"}
+{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#1-HuTouch AI Extension Logs","last_edit":1754306715977,"total_time":15939,"is_writing":0,"_id":"WwvPsTeFMJcu1jBc"}
+{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#1-HuTouch AI Extension Logs","last_edit":1754306898002,"total_time":15946,"is_writing":0,"_id":"WwvPsTeFMJcu1jBc"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\societies\\data\\datasources\\societies_remote_data_source.dart","last_edit":1754306907850,"total_time":839,"is_writing":0,"_id":"wq8ooNpk5LYhTDBc"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\societies\\data\\datasources\\societies_remote_data_source.dart","last_edit":1754306929996,"total_time":841,"is_writing":0,"_id":"wq8ooNpk5LYhTDBc"}
+{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#1-HuTouch AI Extension Logs","last_edit":1754306960943,"total_time":15956,"is_writing":0,"_id":"WwvPsTeFMJcu1jBc"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\societies\\data\\datasources\\societies_remote_data_source.dart","last_edit":1754306976994,"total_time":8727,"is_writing":0,"_id":"wq8ooNpk5LYhTDBc"}
+{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#1-HuTouch AI Extension Logs","last_edit":1754306993687,"total_time":27436,"is_writing":0,"_id":"WwvPsTeFMJcu1jBc"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\features\\societies\\presentation\\controllers\\societies_controller.dart","last_edit":1754307019111,"total_time":4765,"is_writing":0,"_id":"UmmYT53bq7fYUC0m"}
+{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#1-HuTouch AI Extension Logs","last_edit":1754307029930,"total_time":27447,"is_writing":0,"_id":"WwvPsTeFMJcu1jBc"}
+{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#1-HuTouch AI Extension Logs","last_edit":1754307114183,"total_time":27454,"is_writing":0,"_id":"WwvPsTeFMJcu1jBc"}
+{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#1-HuTouch AI Extension Logs","last_edit":1754307188693,"total_time":30290,"is_writing":0,"_id":"WwvPsTeFMJcu1jBc"}
+{"file_path":"extension-output-NiitiLLC.hutouch-ai-coding-#1-HuTouch AI Extension Logs","last_edit":1754307260918,"total_time":30298,"is_writing":0,"_id":"WwvPsTeFMJcu1jBc"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\controllers\\societies_controller.dart","last_edit":1754307273518,"total_time":25967,"is_writing":0,"_id":"Shm90zoYfbji84v0"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\controllers\\societies_controller.dart","last_edit":1754307293996,"total_time":35948,"is_writing":0,"_id":"Shm90zoYfbji84v0"}
+{"file_path":"extension-output-Dart-Code.dart-code-#2-flutter (demo_app)","last_edit":1754307318891,"total_time":51072,"is_writing":0,"_id":"iAxsGGq9xYLUXYuw"}
+{"file_path":"extension-output-Dart-Code.dart-code-#2-flutter (demo_app)","last_edit":1754307328168,"total_time":53731,"is_writing":0,"_id":"iAxsGGq9xYLUXYuw"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\pubspec.yaml","last_edit":1754307786590,"total_time":6836933,"is_writing":0,"_id":"AuwKuP49OKrdGAyk"}
+{"file_path":"extension-output-Dart-Code.dart-code-#2-flutter (demo_app)","last_edit":1754307810687,"total_time":66535,"is_writing":0,"_id":"iAxsGGq9xYLUXYuw"}
+{"file_path":"extension-output-Dart-Code.dart-code-#2-flutter (demo_app)","last_edit":1754307824670,"total_time":74221,"is_writing":0,"_id":"iAxsGGq9xYLUXYuw"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\controllers\\societies_controller.dart","last_edit":1754307967739,"total_time":37824,"is_writing":0,"_id":"Shm90zoYfbji84v0"}
+{"file_path":"extension-output-formulahendry.code-runner-#1-Code","last_edit":1754308133600,"total_time":46,"is_writing":0,"_id":"x0DR1vzjA3e3SgPH"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\controllers\\societies_controller.dart","last_edit":1754308724581,"total_time":37836,"is_writing":0,"_id":"Shm90zoYfbji84v0"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\controllers\\societies_controller.dart","last_edit":1754308962735,"total_time":38530,"is_writing":0,"_id":"Shm90zoYfbji84v0"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\controllers\\societies_controller.dart","last_edit":1754308969254,"total_time":38912,"is_writing":0,"_id":"Shm90zoYfbji84v0"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\controllers\\societies_controller.dart","last_edit":1754308979319,"total_time":39945,"is_writing":0,"_id":"Shm90zoYfbji84v0"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\controllers\\societies_controller.dart","last_edit":1754308994680,"total_time":42692,"is_writing":0,"_id":"Shm90zoYfbji84v0"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\screens\\societies_screen.dart","last_edit":1754309025912,"total_time":59727,"is_writing":0,"_id":"Uc8zr8FlLZUXCZYn"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\screens\\societies_screen.dart","last_edit":1754309051552,"total_time":59761,"is_writing":0,"_id":"Uc8zr8FlLZUXCZYn"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\screens\\societies_screen.dart","last_edit":1754309065390,"total_time":62445,"is_writing":0,"_id":"Uc8zr8FlLZUXCZYn"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\screens\\societies_screen.dart","last_edit":1754309114316,"total_time":63679,"is_writing":0,"_id":"Uc8zr8FlLZUXCZYn"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\screens\\societies_screen.dart","last_edit":1754309138460,"total_time":63691,"is_writing":0,"_id":"Uc8zr8FlLZUXCZYn"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\screens\\societies_screen.dart","last_edit":1754309149573,"total_time":64476,"is_writing":0,"_id":"Uc8zr8FlLZUXCZYn"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\screens\\societies_screen.dart","last_edit":1754309194692,"total_time":64491,"is_writing":0,"_id":"Uc8zr8FlLZUXCZYn"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\screens\\societies_screen.dart","last_edit":1754309200126,"total_time":64503,"is_writing":0,"_id":"Uc8zr8FlLZUXCZYn"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\screens\\societies_screen.dart","last_edit":1754309207328,"total_time":64966,"is_writing":0,"_id":"Uc8zr8FlLZUXCZYn"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core\\app\\routes.dart","last_edit":1754309280867,"total_time":5671,"is_writing":0,"_id":"av0ibogSH5igoLlq"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\models\\society.dart","last_edit":1754309599072,"total_time":565,"is_writing":0,"_id":"UEUo7Eb6NUG59Afi"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\pubspec.yaml","last_edit":1754309637873,"total_time":8675953,"is_writing":0,"_id":"AuwKuP49OKrdGAyk"}
+{"file_path":"extension-output-Dart-Code.dart-code-#2-flutter (demo_app)","last_edit":1754309647302,"total_time":74221,"is_writing":0,"_id":"iAxsGGq9xYLUXYuw"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\data\\repositories\\societies_repository.dart","last_edit":1754309666014,"total_time":1133,"is_writing":0,"_id":"mfJKibetPtIuO0Tk"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\controllers\\societies_controller.dart","last_edit":1754309677506,"total_time":46709,"is_writing":0,"_id":"Shm90zoYfbji84v0"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\core\\app\\routes.dart","last_edit":1754309687289,"total_time":6184,"is_writing":0,"_id":"av0ibogSH5igoLlq"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\lib\\modules\\societies\\presentation\\screens\\societies_screen.dart","last_edit":1754309708013,"total_time":67168,"is_writing":0,"_id":"Uc8zr8FlLZUXCZYn"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\pubspec.yaml","last_edit":1754309749902,"total_time":8677852,"is_writing":0,"_id":"AuwKuP49OKrdGAyk"}
+{"file_path":"f:\\Flutter Applications\\demo_app\\pubspec.yaml","last_edit":1754309770569,"total_time":8677858,"is_writing":0,"_id":"AuwKuP49OKrdGAyk"}
